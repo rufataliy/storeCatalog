@@ -1,7 +1,7 @@
 <?php
-  include "./stock.php";
+  include "./php/stock.php";
 
-  include "./collect-and-print-data.php"
+  include "./php/collect-and-print-data.php"
 
 
 // function returnDetails($arr, $id, $details=NULL) {
